@@ -3,7 +3,7 @@
 
 Desafio Voluntario QA - Lacrei saúde
 
-📌[Tarefas:](https://lacrei-saude.notion.site/Desafio-Quality-Assurance-de16f470007841aba5c564e5dd543943)
+📌[Desafio:](https://lacrei-saude.notion.site/Desafio-Quality-Assurance-de16f470007841aba5c564e5dd543943)
 
 📌[Casos de teste](https://www.notion.so/Casos-de-Testes-1052b8319e8d801cb811e8cd51c1640d?pvs=4)
 
